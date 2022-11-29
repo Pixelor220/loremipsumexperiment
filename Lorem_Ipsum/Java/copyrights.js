@@ -1,0 +1,1 @@
+document.write('<div id="copyrights">A lot of these contents are either from someone, or could not have been made without someone else`s work. <br> All of the original content has a creative commons license. <br><a href="../pages/copyrights.html">MORE INFO</a></div>');
